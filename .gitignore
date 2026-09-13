@@ -3,19 +3,5 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-data/raw/
-data/processed/*.npz
-
-results/*.pt
-results/**/*.pt
-
-results/*.npy
-results/**/*.npy
-
-results/*.npz
-results/**/*.npz
-
-*.zip
-
 .vscode/
 .idea/
